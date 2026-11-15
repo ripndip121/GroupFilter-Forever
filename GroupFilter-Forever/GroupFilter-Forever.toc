@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: GroupFilter-Forever
+## Notes: Filter solo Group Finder listings by role and class.
+## Version: 1.1.0
+## IconTexture: Interface\AddOns\GroupFilter-Forever\Icon.png
+## AllowLoadGameType: camelot
+
+Filter.lua
+GroupFilter-Forever.lua

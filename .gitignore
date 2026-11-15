@@ -1,0 +1,18 @@
+# Generated release archives
+/GroupFilter-Forever*.zip
+
+# Editor backups and temporary files
+*.backup
+*.tmp
+*.swp
+
+# Folders
+/development
+/documentation
+/images
+/tests
+*.zip
+
+# OS-generated files
+Thumbs.db
+.DS_Store
